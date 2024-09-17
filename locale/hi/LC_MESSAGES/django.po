@@ -24,7 +24,7 @@ msgstr "કૈસે હો?"
 
 #: .\myapp\templates\index.html:49
 msgid "My Name is Naren."
-msgstr "મેર નામ મહેશ હૈ"
+msgstr "મેરા નામ મહેશ હૈ"
 
 #: .\myproject\settings.py:108
 msgid "English"
